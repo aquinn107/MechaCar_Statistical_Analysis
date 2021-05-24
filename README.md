@@ -36,6 +36,5 @@ In looking at the overall T-tests that were produced for each lot, we have deter
 How does MechaCar perform against the competition when it comes to MPG and price, 2 big factors for anyone in the market for a vehicle. Key metrics that would be used to measure this data would be Price, MPG-City, and MPG-Highway.
 Null Hypothesis: There is no significant difference between the competition and MechaCar.
 Alternative Hypothesis: There is a significant difference between the competition and MechaCar.
-Statistical tests that we would use to test the hypthesis would be
--What statistical test would you use to test the hypothesis? And why?
--What data is needed to run the statistical test?
+Statistical tests that we would use to test the hypothesis would be Chi Square Test to deterimine frequency between groups, Two Sample T-Tests to determine if there are differences between the  groups and Anova sample for the two groups to determine any differences in both groups averages.
+
